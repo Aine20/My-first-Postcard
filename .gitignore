@@ -1,9 +1,11 @@
 .theia
-
-.learn/_app
-.learn/.session
-.learn/dist
-.learn/reports
+.github
+.learn
+.gitignore
+.gitpod.Dockerfile
+.gitpod.yml
+learn.json
+README.es.md
 app.tar.gz
 config.json
 vscode_queue.json
